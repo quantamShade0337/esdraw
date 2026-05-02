@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Pencil 1: tip at bottom-left, eraser at top-right -->
+  <g transform="translate(50,50) rotate(-45)">
+    <!-- Eraser cap -->
+    <rect x="-8" y="-46" width="16" height="13" rx="5" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Ferrule bands -->
+    <rect x="-8" y="-33" width="16" height="4.5" fill="white" stroke="black" stroke-width="1.8"/>
+    <rect x="-8" y="-28.5" width="16" height="4.5" fill="white" stroke="black" stroke-width="1.8"/>
+    <!-- Body -->
+    <rect x="-8" y="-24" width="16" height="50" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Body stripe lines -->
+    <line x1="-8" y1="-14.5" x2="8" y2="-14.5" stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="-5"    x2="8" y2="-5"    stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="4.5"   x2="8" y2="4.5"   stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="14"    x2="8" y2="14"     stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="23.5"  x2="8" y2="23.5"   stroke="black" stroke-width="1.2"/>
+    <!-- Wood tip taper -->
+    <polygon points="-8,26 8,26 0,44" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Graphite tip -->
+    <polygon points="-3,37 3,37 0,44" fill="#444" stroke="black" stroke-width="1.2"/>
+  </g>
+
+  <!-- Pencil 2: tip at top-left, eraser at bottom-right -->
+  <g transform="translate(50,50) rotate(45)">
+    <!-- Eraser cap -->
+    <rect x="-8" y="-46" width="16" height="13" rx="5" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Ferrule bands -->
+    <rect x="-8" y="-33" width="16" height="4.5" fill="white" stroke="black" stroke-width="1.8"/>
+    <rect x="-8" y="-28.5" width="16" height="4.5" fill="white" stroke="black" stroke-width="1.8"/>
+    <!-- Body -->
+    <rect x="-8" y="-24" width="16" height="50" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Body stripe lines -->
+    <line x1="-8" y1="-14.5" x2="8" y2="-14.5" stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="-5"    x2="8" y2="-5"    stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="4.5"   x2="8" y2="4.5"   stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="14"    x2="8" y2="14"     stroke="black" stroke-width="1.2"/>
+    <line x1="-8" y1="23.5"  x2="8" y2="23.5"   stroke="black" stroke-width="1.2"/>
+    <!-- Wood tip taper -->
+    <polygon points="-8,26 8,26 0,44" fill="white" stroke="black" stroke-width="2.2"/>
+    <!-- Graphite tip -->
+    <polygon points="-3,37 3,37 0,44" fill="#444" stroke="black" stroke-width="1.2"/>
+  </g>
+</svg>
